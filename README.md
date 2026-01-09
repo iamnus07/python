@@ -107,19 +107,3 @@ This repository is for educational purposes. You may use the code and notebooks 
 For questions or feedback, you can reach out to me via GitHub.
 
 Happy Coding! 🚀
-
-yaml
-Copy code
-
----
-
-### Notes on WHY this format is professional:
-
-✅ Has clear **sections** (Overview, Structure, Get Started, Tools, Learning Outcomes).  
-✅ Uses **markdown best practices** for readability. :contentReference[oaicite:2]{index=2}  
-✅ Helps others (and future you) understand the purpose of each file/folder.  
-✅ Shows how to run and explore the content.
-
----
-
-
