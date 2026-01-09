@@ -122,5 +122,4 @@ Copy code
 
 ---
 
-If you want, I can also generate **badges**, **GitHub profile stats**, or a **project logo header** to make it look even sharper!
-::contentReference[oaicite:3]{index=3}
+
